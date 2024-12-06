@@ -1,4 +1,4 @@
-#Recoded by @Its_Oreki_Hotarou
+#Recoded by @Soutick_09
 
 import os
 import logging
