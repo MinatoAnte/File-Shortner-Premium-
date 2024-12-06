@@ -39,7 +39,7 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/510affa3d4b6c911
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/a51caa9b1783e28456147.jpg")
 
 #text
-HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+sWjn-J89xaVhMDAx>Clickhere</a></b>"
+HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/AC_Linkzz/64>Clickhere</a></b>"
 ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Cultured_Nation\n‣ Owned by : @Okabe_xRintarou\n‣ Maintained by : @its_Wriotheslay\n‣ Developed by : @The_Seishiro_Nagi\n\n Adios !!</i></b>"
 SHORT_MSG = "Your Link is down here click on Short URL.."
 
