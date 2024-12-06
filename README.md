@@ -1,18 +1,18 @@
-# File Sharing Ultra Modified Version With Shortener By Hunters
+## Made With ♥️ By Soutick 
 
-![image](https://github.com/Sahil0976/Multi-ForceSub_3buttons/assets/97865856/f590a80a-f80c-40bb-b583-a6e114122f3d)
+![image](https://envs.sh/CDA.jpg)
 
 ## A Telegram File sharing bot you can access files through specific links..
 
 ##
 
-Made Under - [@Anime_X_Hunters](https://t.me/Anime_X_Hunters).
+Made Under - [@Soutick_09](https://t.me/Soutick_09).
 
 
 
 ### Features
 - Fully customisable.
-- Two Force Sub Channels added By - [SAHIL](https://t.me/Okabe_xRintarou)
+- Two Force Sub Channels added By - [Soutick](https://t.me/Soutick_09)
 - Customisable welcome & Forcesub messages.
 - Customisable Pics
 - Shortener feature added
