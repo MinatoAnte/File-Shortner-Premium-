@@ -46,7 +46,7 @@ SHORT_MSG = "👇 Click On Download Button"
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\nᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href=https://t.me/AC_Linkzz>Team Ac Linkzz</a></b>")
 try:
-    ADMINS=[5090651635]
+    ADMINS=[2052951004]
     for x in (os.environ.get("ADMINS", "2052951004").split()):
         ADMINS.append(int(x))
 except ValueError:
