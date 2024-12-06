@@ -61,7 +61,7 @@ async def remove_premium_command(client: Client, message: Message):
         await message.reply(f"User {user_name} - {user_id} has been removed from premium users.")
         # Notify the user
         try:
-            await client.send_message(user_id, "Your Premium membersip has been ended contact admins to renew here - @Its_Wriotheslay")
+            await client.send_message(user_id, "Your Premium membersip has been ended contact admins to renew here - @kakashi_13")
         except Exception as e:
             await message.reply(f"Failed to notify the user: {e}")
     else:
