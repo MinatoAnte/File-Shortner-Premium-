@@ -1,6 +1,6 @@
 ## Made With ♥️ By Kakashi 
 
-![image]https://envs.sh/C-w.jpg
+![image](https://envs.sh/C-w.jpg)
 
 ## A Telegram File sharing bot you can access files through specific links..
 
