@@ -1,6 +1,6 @@
 ## Made With ♥️ By Kakashi 
 
-![image](https://ibb.co/bzJvvnK.jpg)
+![image](https://ibb.co/bzJvvnK)
 
 ## A Telegram File sharing bot you can access files through specific links..
 
