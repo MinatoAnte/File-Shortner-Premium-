@@ -36,7 +36,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #pics
 START_PIC = os.environ.get("START_PIC", "https://graph.org/file/510affa3d4b6c911c12e3.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/a51caa9b1783e28456147.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/3b64224e127e8385f8c70-0e8d3b05d75da9ddb1.jpg")
 
 #text
 HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/AC_Linkzz/64>Clickhere</a></b>"
