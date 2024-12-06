@@ -35,7 +35,7 @@ FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1001800300325"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #pics
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/510affa3d4b6c911c12e3.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/7dd702f9ef9f47fdd0b70-03af1806edcd64d498.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/3b64224e127e8385f8c70-0e8d3b05d75da9ddb1.jpg")
 
 #text
