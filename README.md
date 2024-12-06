@@ -12,7 +12,7 @@ Made Under - [@Kakashi_13](https://t.me/Kakashi_13).
 
 ### Features
 - Fully customisable.
-- Two Force Sub Channels added By - Kakashi_13](https://t.me/Kakashi_13).
+- Two Force Sub Channels added By - [Kakashi](https://t.me/Kakashi_13).
 - Customisable welcome & Forcesub messages.
 - Customisable Pics
 - Shortener feature added
