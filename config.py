@@ -41,7 +41,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/a51caa9b1783e284
 #text
 HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/AC_Linkzz/64>Clickhere</a></b>"
 ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Ac_Linkzz\n‣ Owned by : @Kakashi_13\n‣ Maintained by : @Jakie_Spider_143\n‣ Developed by : @Obito_Uchiha_131\n\n Adios !!</i></b>"
-SHORT_MSG = "Your Link is down here click on Short URL.."
+SHORT_MSG = "👇 Click On Download Button"
 
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\nᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href=https://t.me/Anime_X_Hunters>ᴀɴɪᴍᴇ x ʜᴜɴᴛᴇʀꜱ</a></b>")
