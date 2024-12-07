@@ -16,7 +16,7 @@ APP_ID = int(os.environ.get("APP_ID", "20561711"))
 API_HASH = os.environ.get("API_HASH", "be67fa66bf79d732d799ed8fc7d54a16")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002453573874"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002297182899"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "2052951004"))
@@ -40,7 +40,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/3b64224e127e8385
 
 #text
 HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/AC_Linkzz/64>Clickhere</a></b>"
-ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Ac_Linkzz\n‣ Owned by : @Kakashi_13\n‣ Maintained by : @Jakie_Spider_143\n‣ Developed by : @Obito_Uchiha_131\n\n Adios !!</i></b>"
+ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Ac_Linkzz\n‣ Owned by : @Kakashi_13\n‣ Maintained by : @Soutick_09</i></b>"
 SHORT_MSG = "👇 Click On Download Button"
 
 #start message
