@@ -40,7 +40,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/3b64224e127e8385
 
 #text
 HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/AC_Linkzz/64>Clickhere</a></b>"
-ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Ac_Linkzz\n‣ Owned by : @Kakashi_13\n‣ Maintained by : @Soutick_09</i></b>"
+ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Ac_Linkzz\n‣ Owned by : @Kakashi_13\n‣ Maintained by : @Jakie_Spider_143\n‣ Developed by : @Obito_Uchiha_131\n\n Adios !!</i></b>"
 SHORT_MSG = "👇 Click On Download Button"
 
 #start message
